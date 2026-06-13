@@ -1,0 +1,8 @@
+{
+  "name": "Abhishek Tripathi",
+  "role": "Associate Software Engineer",
+  "company": "Accenture",
+  "target_roles": ["Backend Engineer", "Software Development Engineer (SDE-1)"],
+  "skills": ["Node.js", "Express", "MongoDB", "React", "MERN stack", "JavaScript", "C++", "REST APIs", "JWT"],
+  "experience_summary": "Built 5+ integration pipelines at Accenture, 3 MERN production pages during VectoScalar internship. Solved 1000+ problems across LeetCode and GfG."
+}
